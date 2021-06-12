@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on [Dianet](https://dianet.pl/)
+- 🌱 I’m currently learning **Python, Flask, Django, Raspberry PI, Linux**
+- 📫 How to reach me: [GMAIL](mailto:kamil.cecherz@gmail.com)
 <!--
 **pangeon/pangeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
