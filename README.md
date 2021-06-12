@@ -1,4 +1,7 @@
 # Kamil Cecherz
+
+![](https://komarev.com/ghpvc/?username=pangeon)
+
 ## 💬 Ask me about
  - My first application I wrote in **ActionScript 3** via graphic interface in **Flash**. Always fascinated me areas: **graphic design** and **programming** so I started to develop as **webdeveloper**. Over the course of several years I have learned many technologies and programming languages.
 
@@ -13,6 +16,12 @@
 
 ## ⚡ Workflow statistics: 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pangeon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pangeon)](https://git.io/streak-stats)
+
+## ⚡ Trophy: 
+[![trophy](https://github-profile-trophy.vercel.app/?username=pangeon&margin-w=15&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## ⚡ Technologies: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pangeon&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
