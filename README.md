@@ -8,7 +8,7 @@
  - My specializations: **Java, Python**
 
 ## 👋 Summary 
-- 🔭 I’m currently working on [Dianet](https://dianet.pl/)
+- 🔭 I'm recently worked on [Dianet](https://dianet.pl/)
 - 🌱 I’m currently learning **Python, Flask, Django, Raspberry PI, Linux**
 - 📫 How to reach me: [GMAIL](mailto:kamil.cecherz@gmail.com)
 - 🔳 Stackoverflow profile: [Cecherz](https://stackoverflow.com/users/12154596/cecherz)
@@ -54,4 +54,12 @@
 
 <a href="https://github.com/pangeon/calc-bill">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pangeon&repo=calc-bill" />
+</a>
+
+### **Taskello - 2021**
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+<br />
+
+<a href="https://github.com/pangeon/Taskello">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pangeon&repo=Taskello" />
 </a>
