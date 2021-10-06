@@ -8,8 +8,8 @@
  - My specializations: **Java, Python**
 
 ## 👋 Summary 
-- 🔭 I'm recently worked on [Dianet](https://dianet.pl/)
-- 🌱 I’m currently learning **Python, Flask, Django, Raspberry PI, Linux**
+- 🔭 I'm recently worked on **self-employed**
+- 🌱 I’m currently learning **Wordpress, Raspberry PI, Linux**
 - 📫 How to reach me: [GMAIL](mailto:kamil.cecherz@gmail.com)
 - 🔳 Stackoverflow profile: [Cecherz](https://stackoverflow.com/users/12154596/cecherz)
 - 👀 Website: [cecherz.pl](http://cecherz.pl)
