@@ -5,11 +5,11 @@
 ## 💬 Ask me about
  - My first application I wrote in **ActionScript 3** via graphic interface in **Flash**. Always fascinated me areas: **graphic design** and **programming** so I started to develop as **webdeveloper**. Over the course of several years I have learned many technologies and programming languages.
 
- - My specializations: **Java, Python**
+ - My specializations: **Java, Python, C++**
 
 ## 👋 Summary 
 - 🔭 I'm recently worked on **self-employed**
-- 🌱 I’m currently learning **Wordpress, Raspberry PI, Linux**
+- 🌱 I’m currently learning **Wordpress, Raspberry PI, Linux, C++**
 - 📫 How to reach me: [GMAIL](mailto:kamil.cecherz@gmail.com)
 - 🔳 Stackoverflow profile: [Cecherz](https://stackoverflow.com/users/12154596/cecherz)
 - 👀 Website: [cecherz.pl](http://cecherz.pl)
