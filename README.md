@@ -1,6 +1,6 @@
 # Kamil Cecherz
 
-![](https://komarev.com/ghpvc/?username=pangeon)
+![](https://komarev.com/ghpvc/?username=pangeon) [![wakatime](https://wakatime.com/badge/user/6cb1433f-8351-4e5e-858e-152e25f61249.svg)](https://wakatime.com/@6cb1433f-8351-4e5e-858e-152e25f61249)
 
 ## 💬 Ask me about
  - My first application I wrote in **ActionScript 3** via graphic interface in **Flash**. Always fascinated me areas: **graphic design** and **programming** so I started to develop as **webdeveloper**. Over the course of several years I have learned many technologies and programming languages.
@@ -9,7 +9,7 @@
 
 ## 👋 Summary 
 - 🔭 I'm recently worked on **self-employed**
-- 🌱 I’m currently learning **C++, PHP, Laravel**
+- 🌱 I’m currently learning **JS, TypeScript**
 - 📫 How to reach me: [GMAIL](mailto:kamil.cecherz@gmail.com)
 - 🔳 Stackoverflow profile: [Cecherz](https://stackoverflow.com/users/12154596/cecherz)
 - 👀 Website: [cecherz.pl](http://cecherz.pl)
