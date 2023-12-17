@@ -31,6 +31,14 @@
 
 ## ⚡ Projects
 
+### **V-Galaga - 2013**
+
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FAFAFA.svg?style=for-the-badge&logo=godot-engine)
+
+<a href="https://github.com/pangeon/V-Galaga">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pangeon&repo=V-Galaga" />
+</a>
+
 ###  **SEKP - 2015**
 
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
