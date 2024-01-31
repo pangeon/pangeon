@@ -30,10 +30,15 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Cecherz)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⚡ Projects
-
-### **V-Galaga - 2013**
-
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FAFAFA.svg?style=for-the-badge&logo=godot-engine)
+
+### **Duck Adventure - 2024**
+
+<a href="https://github.com/pangeon/DuckAdventure">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pangeon&repo=DuckAdventure" />
+</a>
+
+### **V-Galaga - 2023**
 
 <a href="https://github.com/pangeon/V-Galaga">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pangeon&repo=V-Galaga" />
