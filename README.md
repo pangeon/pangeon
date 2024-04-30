@@ -32,6 +32,12 @@
 ## ⚡ Projects
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FAFAFA.svg?style=for-the-badge&logo=godot-engine)
 
+### **Pixel Mania - 2024**
+
+<a href="https://github.com/pangeon/Pixel-Mania">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pangeon&repo=Pixel-Mania" />
+</a>
+
 ### **Duck Adventure - 2024**
 
 <a href="https://github.com/pangeon/DuckAdventure">
