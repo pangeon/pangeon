@@ -5,7 +5,7 @@
 ## 💬 Ask me about
  - My first application I wrote in **ActionScript 3** via graphic interface in **Flash**. Always fascinated me areas: **graphic design** and **programming** so I started to develop as **webdeveloper**. Over the course of several years I have learned many technologies and programming languages.
 
- - My specializations: **web-applications**
+ - My specializations: **web-applications, 2d graphics&games**
 
 ## 👋 Summary 
 - 🔭 I'm recently worked on **self-employed**
